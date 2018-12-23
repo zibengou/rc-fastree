@@ -15,12 +15,12 @@ npm install --save rc-fastree
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'rc-fastree'
+import Tree from 'rc-fastree'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <Tree />
     )
   }
 }
